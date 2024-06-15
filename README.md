@@ -9,11 +9,11 @@ I am Shamim Rahimi, currently a computer engineering student at Sharif Universit
 ## Skills 👩🏻‍💻
 - **Programming Languages:**
   
-  ## Java
+  • Java
   
-  ## C/C++
+  • C/C++
   
-  ## Python
+  • Python
   
-  ## JavaScript
+  • JavaScript
 
