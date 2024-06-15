@@ -1,5 +1,3 @@
-# Shamim Rahimi
-
 ## Introduction 
 
 Hi 👋🏻
