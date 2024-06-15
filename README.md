@@ -8,8 +8,12 @@ I am Shamim Rahimi, currently a computer engineering student at Sharif Universit
 
 ## Skills 👩🏻‍💻
 - **Programming Languages:**
-  . Java
-  . C/C++
-  . Python
-  . JavaScript
+  
+  ## Java
+  
+  ## C/C++
+  
+  ## Python
+  
+  ## JavaScript
 
